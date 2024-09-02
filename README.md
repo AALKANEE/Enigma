@@ -19,11 +19,11 @@ This project is a Python simulation of the Enigma machine, a cipher device used 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/enigma-simulation.git
+    https://github.com/AALKANEE/Enigma.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd enigma-simulation
+    cd Enigma
     ```
 
 
